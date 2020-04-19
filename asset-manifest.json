@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-pixabay-gallery/static/css/main.096afcfd.chunk.css",
+    "main.js": "/react-tailwind-pixabay-gallery/static/js/main.132e3d12.chunk.js",
+    "main.js.map": "/react-tailwind-pixabay-gallery/static/js/main.132e3d12.chunk.js.map",
+    "runtime-main.js": "/react-tailwind-pixabay-gallery/static/js/runtime-main.f711efc2.js",
+    "runtime-main.js.map": "/react-tailwind-pixabay-gallery/static/js/runtime-main.f711efc2.js.map",
+    "static/js/2.0c3d36ce.chunk.js": "/react-tailwind-pixabay-gallery/static/js/2.0c3d36ce.chunk.js",
+    "static/js/2.0c3d36ce.chunk.js.map": "/react-tailwind-pixabay-gallery/static/js/2.0c3d36ce.chunk.js.map",
+    "index.html": "/react-tailwind-pixabay-gallery/index.html",
+    "precache-manifest.fdba7991838838369186103fac0fba8e.js": "/react-tailwind-pixabay-gallery/precache-manifest.fdba7991838838369186103fac0fba8e.js",
+    "service-worker.js": "/react-tailwind-pixabay-gallery/service-worker.js",
+    "static/css/main.096afcfd.chunk.css.map": "/react-tailwind-pixabay-gallery/static/css/main.096afcfd.chunk.css.map",
+    "static/js/2.0c3d36ce.chunk.js.LICENSE.txt": "/react-tailwind-pixabay-gallery/static/js/2.0c3d36ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f711efc2.js",
+    "static/js/2.0c3d36ce.chunk.js",
+    "static/css/main.096afcfd.chunk.css",
+    "static/js/main.132e3d12.chunk.js"
+  ]
+}
